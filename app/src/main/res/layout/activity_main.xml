@@ -9,10 +9,19 @@
     tools:context=".MainActivity">
 
     <Button
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Scan Barcode"
+        android:gravity="center"
         android:id="@+id/barcodeButton"/>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Reviews are based on Goodreads reviews"
+        android:gravity="center"/>
+
 
 
 </LinearLayout>
