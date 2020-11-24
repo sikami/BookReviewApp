@@ -6,4 +6,5 @@ This book app connects to 2 APIS:
 
 it works by, reading barcode from a book with Zxing API. User will retrieve a isbn number back. Thus the number will be used to search for correct Book title, image, and average rating from Goodreads and display it in app.
 
-App is a little slow, and alot of processing is done on main thread, however, slow, it works. 
+<h3>Future Project Todo:</h3>
+- Class separation to not overload a method
