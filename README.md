@@ -1,4 +1,4 @@
-Book Review App version 1.0
+<h1>Book Review App version 1.0</h1>
 
 This book app connects to 2 APIS:
 1. Zxing 
